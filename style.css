@@ -1,0 +1,48 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+}
+.bg-primary{
+    height: 100vh;
+    padding-top:8rem;
+}
+h3,h1{
+    color:white!important;
+    margin-bottom:1rem!important;
+    
+}
+.button{
+    padding:.5rem 1.5rem;
+   box-shadow: 0 0 .5rem;
+    border-radius:1.8rem;
+    border:none;
+    font-weight: bold;
+    background-color: crimson;
+}
+.button:hover{
+    background-color: rgb(220, 20, 163);
+}
+textarea:focus{
+   border:none!important;
+}
+.container
+{
+    background-color: black;
+    height:40%;
+    background-color:rgb(31, 25, 25);
+    padding-block:.7rem;
+    margin:1rem auto!important;
+    border-radius: .5rem;
+
+}
+textarea{
+    width:100%;
+    resize:none!important;
+    height:100%;
+    background-color: chocolate;
+    border:none!important;
+    font-weight:bold;
+    font-size:1.6rem!important;
+   
+}
+
